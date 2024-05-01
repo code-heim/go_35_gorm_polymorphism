@@ -1,0 +1,1 @@
+# go_35_gorm_polymorphism
